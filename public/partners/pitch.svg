@@ -1,0 +1,5 @@
+<svg width="180" height="60" viewBox="0 0 180 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M40 30C40 21.7157 46.7157 15 55 15C63.2843 15 70 21.7157 70 30C70 38.2843 63.2843 45 55 45C46.7157 45 40 38.2843 40 30Z" stroke="#E7E5BD" stroke-width="2"/>
+  <path d="M55 15V30L63 38" stroke="#E7E5BD" stroke-width="2" stroke-linecap="round"/>
+  <text x="80" y="34" font-family="Arial" font-size="16" fill="#E7E5BD">PITCH</text>
+</svg> 

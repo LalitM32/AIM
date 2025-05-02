@@ -1,0 +1,6 @@
+<svg width="180" height="60" viewBox="0 0 180 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M30 30C30 21.7157 36.7157 15 45 15H55C63.2843 15 70 21.7157 70 30C70 38.2843 63.2843 45 55 45H45C36.7157 45 30 38.2843 30 30Z" stroke="#E7E5BD" stroke-width="2"/>
+  <path d="M45 25L55 35" stroke="#E7E5BD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M55 25L45 35" stroke="#E7E5BD" stroke-width="2" stroke-linecap="round"/>
+  <text x="80" y="34" font-family="Arial" font-size="16" fill="#E7E5BD">Partner7</text>
+</svg> 

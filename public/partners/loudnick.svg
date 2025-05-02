@@ -1,0 +1,5 @@
+<svg width="180" height="60" viewBox="0 0 180 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="30" y="15" width="50" height="30" rx="3" stroke="#E7E5BD" stroke-width="2"/>
+  <text x="40" y="35" font-family="Arial" font-size="14" font-weight="bold" fill="#E7E5BD">LOUDNICK</text>
+  <path d="M73 29L80 23V37L73 31" stroke="#E7E5BD" stroke-width="2" fill="none"/>
+</svg> 

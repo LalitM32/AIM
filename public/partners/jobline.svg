@@ -1,0 +1,6 @@
+<svg width="180" height="60" viewBox="0 0 180 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M41.3 11.7L31.3 19.1C30.5 19.7 30 20.6 30 21.6V36.4C30 37.4 30.5 38.3 31.3 38.9L41.3 46.3C42.1 46.9 43.1 46.9 43.9 46.3L53.9 38.9C54.7 38.3 55.2 37.4 55.2 36.4V21.6C55.2 20.6 54.7 19.7 53.9 19.1L43.9 11.7C43.1 11.1 42.1 11.1 41.3 11.7Z" stroke="#E7E5BD" stroke-width="2"/>
+  <path d="M50 29H35" stroke="#E7E5BD" stroke-width="2"/>
+  <path d="M42.5 21.5V36.5" stroke="#E7E5BD" stroke-width="2"/>
+  <text x="65" y="34" font-family="Arial" font-size="16" fill="#E7E5BD">JobLine</text>
+</svg> 

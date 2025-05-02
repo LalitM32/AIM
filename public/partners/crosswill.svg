@@ -1,0 +1,6 @@
+<svg width="180" height="60" viewBox="0 0 180 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M35 15L70 45" stroke="#E7E5BD" stroke-width="2" stroke-linecap="round"/>
+  <path d="M35 45L70 15" stroke="#E7E5BD" stroke-width="2" stroke-linecap="round"/>
+  <rect x="30" y="15" width="40" height="30" rx="2" stroke="#E7E5BD" stroke-width="2"/>
+  <text x="80" y="34" font-family="Arial" font-size="16" fill="#E7E5BD">CROSSWILL</text>
+</svg> 
